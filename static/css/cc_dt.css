@@ -1,0 +1,75 @@
+@charset "utf-8";
+.principal {
+}
+.principal .contenido .foto {
+	float: none;
+}
+.cua1 {
+	padding: 5px;
+	float: left;
+	height: 300px;
+	width: 200px;
+	background-color: #DFDFDF;
+	margin: 5px;
+	border: 0px solid #999;
+}
+.cua1:hover {
+	padding: 5px;
+	float: left;
+	height: 300px;
+	width: 200px;
+	background-color: #FFF;
+	margin: 5px;
+	border: 0px solid #999;
+}
+.principal .contenido .texto1 div {
+	margin: 30px;
+}
+.cua1 #form2 label #comprar {
+	background-color: #6F0;
+	background-image: url(../imgen/detalles.png);
+	height: 27px;
+	width: 106px;
+}
+.principal .contenido .texto div table {
+	color: #FFF;
+}
+.principal .contenido .texto ol li {
+	color: #000;
+}
+.principal .contenido .com {
+	float: none;
+}
+.serbi {
+	float: right;
+	
+	text-align: left;
+	padding-left: 10px;
+	color: #999;
+}
+.serbi h2 {
+	color: #06F;
+}
+.serbi p {
+	color: #CCC;
+}
+.serbi p {
+	color: #333;
+}
+.serbi ptex {
+}
+.serbi pww {
+	color: #06F;
+}
+
+.texpie {
+	float: left;
+	height: 200px;
+	width: 150px;
+	text-align: left;
+	color: #333;
+	margin: 6px;
+}
+.texpie p {
+	color: #666;
+}

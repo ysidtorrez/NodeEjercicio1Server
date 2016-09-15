@@ -1,0 +1,25 @@
+.rojo, .amarillo, .azul, .negro{
+  position: relative;
+}
+.rojo{
+  background-color: red;
+  width: 50%;
+  height: 200px;
+  margin-left: 20%;
+}
+.amarillo{
+  background-color: yellow;
+  width: 50%;
+  height: 200px;
+  margin-top: -10%;
+}
+.azul{
+  background-color: blue;
+  width: 50%;
+  height: 200px;
+}
+.negro{
+  background-color: black;
+  width: 50%;
+  height: 200px;
+}

@@ -1,0 +1,71 @@
+.cabeza {
+    
+    height: 100px;
+    background-color: #464545;
+    
+    
+}
+
+.submenu {
+    
+    
+    
+}
+
+.cuerpo{
+    background-color: #eee;
+}
+.articulo {
+    
+   
+    text-align: center;
+}
+
+
+
+.logo {
+    position: absolute;
+    top:6px;
+    left: 20px;
+    height: 50;
+
+}
+
+
+.cabeza a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.titulo {
+    text-align: center;
+    color: white;
+    font-size: 30;
+    padding: 0;
+    position: relative;
+    top: -19px;
+}
+
+footer {
+    background:#464545;
+    color:#fff;
+    position: relative;
+    top: 50;
+}
+.cabeza.row {
+    position: relative;
+    top: 50;
+}
+.cuerpo.row {
+    position: relative;
+    top: 50;
+}
+
+.com {
+    width: 100px;
+    height: 200px;
+}
+
+
+
